@@ -1,0 +1,18 @@
+<transactions>
+	<UPDATE item_id="11775" invent_id="894" itemsize="S" color="Khaki" curr_price="24.95" qoh="99" />
+	<ADD item_id="11665" invent_id="786" itemsize="S" color="White" curr_price="259.95" qoh="200" />
+	<DELETE item_id="11779" />
+	<ADD item_id="11849" invent_id="559" itemsize="XXL" color="Royal Blue" curr_price="30.00" qoh="219" />
+	<ADD item_id="11797" invent_id="897" itemsize="L" color="Teal" curr_price="59.95" qoh="200" />
+	<ADD item_id="11798" invent_id="897" itemsize="XL" color="Teal" curr_price="64.95" qoh="100" />
+	<ADD item_id="11111" />
+	<ADD item_id="11999" invent_id="897" itemsize="XL" color="Teal" curr_price="64.95" qoh="-50" />
+	<UPDATE item_id="11820" invent_id="995" itemsize="10" color="Blue" curr_price="15.99" qoh="57" />
+	<UPDATE item_id="11822" invent_id="995" itemsize="12" color="Blue" curr_price="17.99" qoh="33" />
+	<UPDATE item_id="11825" invent_id="995" itemsize="11" color="Red" curr_price="16.99" qoh="77" />
+	<UPDATE item_id="11111" invent_id="995" itemsize="10" color="Blue" curr_price="15.99" qoh="44" />
+	<ADD item_id="11825" invent_id="995" itemsize="11" color="Red" curr_price="16.99" qoh="77" />
+	<ADD item_id="11111" invent_id="995" itemsize="10" color="Blue" curr_price="15.99" qoh="44" />
+	<DELETE item_id="11779" />
+</transactions>
+
